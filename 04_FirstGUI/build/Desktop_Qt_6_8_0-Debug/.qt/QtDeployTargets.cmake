@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_04_FirstGUI_FILE /home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/04_FirstGUI)
+set(__QT_DEPLOY_TARGET_04_FirstGUI_TYPE EXECUTABLE)

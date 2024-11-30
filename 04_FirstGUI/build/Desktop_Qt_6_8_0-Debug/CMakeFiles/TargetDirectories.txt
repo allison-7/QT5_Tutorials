@@ -1,0 +1,9 @@
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/04_FirstGUI.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/edit_cache.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/list_install_components.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/local.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/install/strip.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/04_FirstGUI_autogen_timestamp_deps.dir
+/home/allison/Qt5_Tutorials/04_FirstGUI/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/04_FirstGUI_autogen.dir
