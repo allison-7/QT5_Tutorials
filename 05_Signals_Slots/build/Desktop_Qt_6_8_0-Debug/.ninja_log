@@ -1,0 +1,15 @@
+# ninja log v6
+15	1588	1733084514402988879	05_Signals_Slots_autogen/timestamp	6f1efc4295c48484
+15	1588	1733084514402988879	05_Signals_Slots_autogen/mocs_compilation.cpp	6f1efc4295c48484
+15	1588	1733084514402988879	/home/allison/Qt5_Tutorials/05_Signals_Slots/build/Desktop_Qt_6_8_0-Debug/05_Signals_Slots_autogen/timestamp	6f1efc4295c48484
+15	1588	1733084514402988879	/home/allison/Qt5_Tutorials/05_Signals_Slots/build/Desktop_Qt_6_8_0-Debug/05_Signals_Slots_autogen/mocs_compilation.cpp	6f1efc4295c48484
+1590	15324	1733084514423988699	CMakeFiles/05_Signals_Slots.dir/05_Signals_Slots_autogen/mocs_compilation.cpp.o	7f1b635713c962e9
+1591	15402	1733084514424988690	CMakeFiles/05_Signals_Slots.dir/main.cpp.o	bbd81fccdea1a0a8
+1592	15780	1733084514425988682	CMakeFiles/05_Signals_Slots.dir/mainwindow.cpp.o	4fbd049e9a1d1afb
+15781	18473	1733084528614866963	05_Signals_Slots	da9e2df8ed8a65fc
+50	189	1733084823370258963	05_Signals_Slots_autogen/timestamp	6f1efc4295c48484
+50	189	1733084823370258963	05_Signals_Slots_autogen/mocs_compilation.cpp	6f1efc4295c48484
+50	189	1733084823370258963	/home/allison/Qt5_Tutorials/05_Signals_Slots/build/Desktop_Qt_6_8_0-Debug/05_Signals_Slots_autogen/timestamp	6f1efc4295c48484
+50	189	1733084823370258963	/home/allison/Qt5_Tutorials/05_Signals_Slots/build/Desktop_Qt_6_8_0-Debug/05_Signals_Slots_autogen/mocs_compilation.cpp	6f1efc4295c48484
+194	12177	1733084823514257659	CMakeFiles/05_Signals_Slots.dir/mainwindow.cpp.o	4fbd049e9a1d1afb
+12177	13542	1733084835498149021	05_Signals_Slots	da9e2df8ed8a65fc
