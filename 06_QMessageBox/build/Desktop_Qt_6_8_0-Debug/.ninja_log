@@ -1,0 +1,25 @@
+# ninja log v6
+23	2464	1733085824305857266	06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+23	2464	1733085824305857266	06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+23	2464	1733085824305857266	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+23	2464	1733085824305857266	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+2480	14396	1733085824348856854	CMakeFiles/06_QMessageBox.dir/06_QMessageBox_autogen/mocs_compilation.cpp.o	1c3c5dfa7195a78a
+2483	14437	1733085824351856826	CMakeFiles/06_QMessageBox.dir/mainwindow.cpp.o	ef84d86e94cf8cce
+2481	14448	1733085824349856845	CMakeFiles/06_QMessageBox.dir/main.cpp.o	c0d1b6cc8280be36
+14448	15993	1733085836316742305	06_QMessageBox	c64006360fcd7b5b
+15	70	1733086505112316016	06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+15	70	1733086505112316016	06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+15	70	1733086505112316016	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+15	70	1733086505112316016	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+12	74	1733086575757635427	06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+12	74	1733086575757635427	06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+12	74	1733086575757635427	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+12	74	1733086575757635427	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+74	14099	1733086575819634830	CMakeFiles/06_QMessageBox.dir/mainwindow.cpp.o	ef84d86e94cf8cce
+14099	16186	1733086589845499683	06_QMessageBox	c64006360fcd7b5b
+12	88	1733086637404041382	06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+12	88	1733086637404041382	06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+12	88	1733086637404041382	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/timestamp	f41051f9b690fbca
+12	88	1733086637404041382	/home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox_autogen/mocs_compilation.cpp	f41051f9b690fbca
+89	16165	1733086637481040640	CMakeFiles/06_QMessageBox.dir/mainwindow.cpp.o	ef84d86e94cf8cce
+16166	18143	1733086653557885695	06_QMessageBox	c64006360fcd7b5b

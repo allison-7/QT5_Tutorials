@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_06_QMessageBox_FILE /home/allison/Qt5_Tutorials/06_QMessageBox/build/Desktop_Qt_6_8_0-Debug/06_QMessageBox)
+set(__QT_DEPLOY_TARGET_06_QMessageBox_TYPE EXECUTABLE)
