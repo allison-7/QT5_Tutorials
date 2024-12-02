@@ -1,0 +1,27 @@
+# ninja log v6
+4	1715	1733178443490123381	07_Layouts_autogen/timestamp	c7733012011cf55e
+4	1715	1733178443490123381	07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+4	1715	1733178443490123381	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/timestamp	c7733012011cf55e
+4	1715	1733178443490123381	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+1720	14495	1733178443512123163	CMakeFiles/07_Layouts.dir/07_Layouts_autogen/mocs_compilation.cpp.o	b61a5199624c6b78
+1722	14515	1733178443514123143	CMakeFiles/07_Layouts.dir/main.cpp.o	7ea1f3eb514cdda3
+1723	15228	1733178443515123133	CMakeFiles/07_Layouts.dir/mainwindow.cpp.o	2e02c941146ff2c9
+15229	17694	1733178457020989364	07_Layouts	2ba66239ac80fc3f
+20	78	1733178707890478789	07_Layouts_autogen/timestamp	c7733012011cf55e
+20	78	1733178707890478789	07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+20	78	1733178707890478789	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/timestamp	c7733012011cf55e
+20	78	1733178707890478789	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+78	14060	1733178707948478204	CMakeFiles/07_Layouts.dir/mainwindow.cpp.o	2e02c941146ff2c9
+14060	16250	1733178721930337076	07_Layouts	2ba66239ac80fc3f
+11	68	1733178827621267055	07_Layouts_autogen/timestamp	c7733012011cf55e
+11	68	1733178827621267055	07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+11	68	1733178827621267055	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/timestamp	c7733012011cf55e
+11	68	1733178827621267055	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+69	12026	1733178827679266466	CMakeFiles/07_Layouts.dir/mainwindow.cpp.o	2e02c941146ff2c9
+12026	14196	1733178839636145087	07_Layouts	2ba66239ac80fc3f
+11	74	1733178980749708332	07_Layouts_autogen/timestamp	c7733012011cf55e
+11	74	1733178980749708332	07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+11	74	1733178980749708332	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/timestamp	c7733012011cf55e
+11	74	1733178980749708332	/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts_autogen/mocs_compilation.cpp	c7733012011cf55e
+74	11549	1733178980812707690	CMakeFiles/07_Layouts.dir/mainwindow.cpp.o	2e02c941146ff2c9
+11549	13783	1733178992287590547	07_Layouts	2ba66239ac80fc3f

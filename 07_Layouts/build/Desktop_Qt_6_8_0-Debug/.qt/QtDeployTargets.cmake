@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_07_Layouts_FILE /home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug/07_Layouts)
+set(__QT_DEPLOY_TARGET_07_Layouts_TYPE EXECUTABLE)

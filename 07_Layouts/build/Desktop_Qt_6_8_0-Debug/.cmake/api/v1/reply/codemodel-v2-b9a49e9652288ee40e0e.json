@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-79da4e67faefcf4092d6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "07_Layouts",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Layouts::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Layouts-Debug-b9df668b2cf8b5d47fb1.json",
+					"name" : "07_Layouts",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Layouts_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Layouts_autogen-Debug-f99d5faf0f4f7caad9d7.json",
+					"name" : "07_Layouts_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "07_Layouts_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-07_Layouts_autogen_timestamp_deps-Debug-1c43c7554c204f481f45.json",
+					"name" : "07_Layouts_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Qt5_Tutorials/07_Layouts/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Qt5_Tutorials/07_Layouts"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
