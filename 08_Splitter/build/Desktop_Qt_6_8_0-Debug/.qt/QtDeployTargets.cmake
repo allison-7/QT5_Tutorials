@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_08_Splitter_FILE /home/allison/Qt5_Tutorials/08_Splitter/build/Desktop_Qt_6_8_0-Debug/08_Splitter)
+set(__QT_DEPLOY_TARGET_08_Splitter_TYPE EXECUTABLE)

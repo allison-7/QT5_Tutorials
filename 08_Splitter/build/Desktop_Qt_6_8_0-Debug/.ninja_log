@@ -1,0 +1,15 @@
+# ninja log v6
+5	1485	1733179691365401080	08_Splitter_autogen/timestamp	ae98489ff4fb21c3
+5	1485	1733179691365401080	08_Splitter_autogen/mocs_compilation.cpp	ae98489ff4fb21c3
+5	1485	1733179691365401080	/home/allison/Qt5_Tutorials/08_Splitter/build/Desktop_Qt_6_8_0-Debug/08_Splitter_autogen/timestamp	ae98489ff4fb21c3
+5	1485	1733179691365401080	/home/allison/Qt5_Tutorials/08_Splitter/build/Desktop_Qt_6_8_0-Debug/08_Splitter_autogen/mocs_compilation.cpp	ae98489ff4fb21c3
+1487	13595	1733179691386400863	CMakeFiles/08_Splitter.dir/08_Splitter_autogen/mocs_compilation.cpp.o	756fceb03ac3261c
+1489	13641	1733179691388400842	CMakeFiles/08_Splitter.dir/main.cpp.o	b608b565992901a5
+1491	14708	1733179691390400822	CMakeFiles/08_Splitter.dir/mainwindow.cpp.o	3a741182f7003511
+14708	16468	1733179704608264256	08_Splitter	af9e1a56cef77b7b
+11	107	1733179925527979951	08_Splitter_autogen/timestamp	ae98489ff4fb21c3
+11	107	1733179925527979951	08_Splitter_autogen/mocs_compilation.cpp	ae98489ff4fb21c3
+11	107	1733179925527979951	/home/allison/Qt5_Tutorials/08_Splitter/build/Desktop_Qt_6_8_0-Debug/08_Splitter_autogen/timestamp	ae98489ff4fb21c3
+11	107	1733179925527979951	/home/allison/Qt5_Tutorials/08_Splitter/build/Desktop_Qt_6_8_0-Debug/08_Splitter_autogen/mocs_compilation.cpp	ae98489ff4fb21c3
+107	11501	1733179925623978958	CMakeFiles/08_Splitter.dir/mainwindow.cpp.o	3a741182f7003511
+11502	12864	1733179937018861057	08_Splitter	af9e1a56cef77b7b
