@@ -1,0 +1,19 @@
+# ninja log v6
+4	3373	1733352823455506607	09_SecondWindow_autogen/timestamp	fb53594c7be5e98
+4	3373	1733352823455506607	09_SecondWindow_autogen/mocs_compilation.cpp	fb53594c7be5e98
+4	3373	1733352823455506607	/home/allison/Qt5_Tutorials/09_SecondWindow/build/Desktop_Qt_6_8_0-Debug/09_SecondWindow_autogen/timestamp	fb53594c7be5e98
+4	3373	1733352823455506607	/home/allison/Qt5_Tutorials/09_SecondWindow/build/Desktop_Qt_6_8_0-Debug/09_SecondWindow_autogen/mocs_compilation.cpp	fb53594c7be5e98
+3379	23056	1733352823484506367	CMakeFiles/09_SecondWindow.dir/09_SecondWindow_autogen/mocs_compilation.cpp.o	f11eede078c60a04
+3382	23978	1733352823487506342	CMakeFiles/09_SecondWindow.dir/main.cpp.o	ca2c302ef1a863b
+3385	24111	1733352823490506317	CMakeFiles/09_SecondWindow.dir/mainwindow.cpp.o	c869b0d60567b7ae
+3390	24147	1733352823495506276	CMakeFiles/09_SecondWindow.dir/second_dialog.cpp.o	449b7f431165e989
+24148	25735	1733352844253337026	09_SecondWindow	ab573ac3d009626f
+51	2093	1733353363955246994	09_SecondWindow_autogen/timestamp	fb53594c7be5e98
+51	2093	1733353363955246994	09_SecondWindow_autogen/mocs_compilation.cpp	fb53594c7be5e98
+51	2093	1733353363955246994	/home/allison/Qt5_Tutorials/09_SecondWindow/build/Desktop_Qt_6_8_0-Debug/09_SecondWindow_autogen/timestamp	fb53594c7be5e98
+51	2093	1733353363955246994	/home/allison/Qt5_Tutorials/09_SecondWindow/build/Desktop_Qt_6_8_0-Debug/09_SecondWindow_autogen/mocs_compilation.cpp	fb53594c7be5e98
+2096	19320	1733353363986246479	CMakeFiles/09_SecondWindow.dir/main.cpp.o	ca2c302ef1a863b
+2100	20505	1733353363990246413	CMakeFiles/09_SecondWindow.dir/second_dialog.cpp.o	449b7f431165e989
+2094	20860	1733353363984246513	CMakeFiles/09_SecondWindow.dir/09_SecondWindow_autogen/mocs_compilation.cpp.o	f11eede078c60a04
+2099	21414	1733353363989246429	CMakeFiles/09_SecondWindow.dir/mainwindow.cpp.o	c869b0d60567b7ae
+21414	23062	1733353383304929233	09_SecondWindow	ab573ac3d009626f
