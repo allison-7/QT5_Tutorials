@@ -394,7 +394,8 @@
 		"/home/allison/Qt/6.8.0/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake",
 		"/home/allison/Qt/6.8.0/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsPlugins.cmake",
 		"/home/allison/Qt/6.8.0/gcc_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake",
-		"/home/allison/Qt/Tools/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
+		"/home/allison/Qt/Tools/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"/home/allison/Qt5_Tutorials/10_LoginApp/resource.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "/home/allison/Qt5_Tutorials/10_LoginApp",
 	"CROSS_CONFIG" : false,

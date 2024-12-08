@@ -71,13 +71,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 64,
+				"line" : 65,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 47,
+				"line" : 48,
 				"parent" : 0
 			},
 			{
@@ -285,7 +285,8 @@
 				0,
 				1,
 				2,
-				6
+				6,
+				13
 			]
 		}
 	],
@@ -378,7 +379,8 @@
 				0,
 				1,
 				2,
-				6
+				6,
+				13
 			]
 		},
 		{
@@ -387,8 +389,8 @@
 			[
 				3,
 				5,
-				9,
-				10
+				10,
+				11
 			]
 		},
 		{
@@ -397,7 +399,8 @@
 			[
 				4,
 				7,
-				11
+				9,
+				12
 			]
 		},
 		{
@@ -411,7 +414,8 @@
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				12
+				14,
+				15
 			]
 		}
 	],
@@ -468,6 +472,11 @@
 			"sourceGroupIndex" : 3
 		},
 		{
+			"backtrace" : 4,
+			"path" : "resource.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_0-Debug/10_LoginApp_autogen/include/ui_mainwindow.h",
@@ -487,8 +496,21 @@
 		},
 		{
 			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0-Debug/10_LoginApp_autogen/EWIEGA46WW/qrc_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_0-Debug/10_LoginApp_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop_Qt_6_8_0-Debug/10_LoginApp_autogen/EWIEGA46WW/qrc_resource.cpp.rule",
 			"sourceGroupIndex" : 4
 		}
 	],

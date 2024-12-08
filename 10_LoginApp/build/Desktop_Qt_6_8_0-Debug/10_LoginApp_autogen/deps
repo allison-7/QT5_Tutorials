@@ -437,6 +437,7 @@
 	/home/allison/Qt5_Tutorials/10_LoginApp/main.cpp \
 	/home/allison/Qt5_Tutorials/10_LoginApp/mainwindow.cpp \
 	/home/allison/Qt5_Tutorials/10_LoginApp/mainwindow.h \
+	/home/allison/Qt5_Tutorials/10_LoginApp/resource.qrc \
 	/home/allison/Qt5_Tutorials/10_LoginApp/second_dialog.cpp \
 	/home/allison/Qt5_Tutorials/10_LoginApp/second_dialog.h \
 	/usr/include/alloca.h \

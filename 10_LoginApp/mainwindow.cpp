@@ -8,10 +8,12 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-    QPixmap pix("/home/allison/Qt5_Tutorials/10_LoginApp/1-login.png");
+    QPixmap pix(":/resources/img/1-login.png");
     int w = ui->label_pic->width();
     int h = ui->label_pic->height();
     ui->label_pic->setPixmap(pix.scaled(w,h,Qt::KeepAspectRatio));
+    ui->statusbar->addPermanentWidget(ui->label_3,1);
+    ui->statusbar->addPermanentWidget(ui->progressBar,1);
 
 }
 
@@ -26,12 +28,16 @@ void MainWindow::on_pushButton_Login_clicked()
     QString password = ui->lineEdit_password->text();
 
     if(username == "test" && password == "test") {
-        QMessageBox::information(this, "Login", "Username and password is correct");
-        secondDialog = new Second_Dialog(this);
-        secondDialog->show();
+        //QMessageBox::information(this, "Login", "Username and password is correct");
+        //secondDialog = new Second_Dialog(this);
+        //secondDialog->show();
+        //ui->statusbar->showMessage("Username and password is correct", 5000);
+        ui->label_3->setText("Username and password is correct");
     }
     else {
-        QMessageBox::warning(this, "Login", "Username and password is not correct");
+        //QMessageBox::warning(this, "Login", "Username and password is not correct");
+        //ui->statusbar->showMessage("Username and password is not correct", 5000);
+        ui->label_3->setText("Username and password is not correct");
     }
 }
 
