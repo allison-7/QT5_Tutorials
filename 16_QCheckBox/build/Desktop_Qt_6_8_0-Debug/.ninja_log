@@ -1,0 +1,23 @@
+# ninja log v6
+46	3018	1734206721904752041	16_QCheckBox_autogen/timestamp	161e69468b372e01
+46	3018	1734206721904752041	16_QCheckBox_autogen/mocs_compilation.cpp	161e69468b372e01
+46	3018	1734206721904752041	/home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug/16_QCheckBox_autogen/timestamp	161e69468b372e01
+46	3018	1734206721904752041	/home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug/16_QCheckBox_autogen/mocs_compilation.cpp	161e69468b372e01
+3028	20641	1734206721952751553	CMakeFiles/16_QCheckBox.dir/16_QCheckBox_autogen/mocs_compilation.cpp.o	c5083d03d4366cb8
+3030	20655	1734206721954751533	CMakeFiles/16_QCheckBox.dir/main.cpp.o	ce43d90b75b6e426
+3039	20801	1734206721963751442	CMakeFiles/16_QCheckBox.dir/mainwindow.cpp.o	b0fc38aa846faa1c
+20801	22169	1734206739725571587	16_QCheckBox	ce39d7440372bf9e
+12	2395	1734206875952219165	16_QCheckBox_autogen/timestamp	161e69468b372e01
+12	2395	1734206875952219165	16_QCheckBox_autogen/mocs_compilation.cpp	161e69468b372e01
+12	2395	1734206875952219165	/home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug/16_QCheckBox_autogen/timestamp	161e69468b372e01
+12	2395	1734206875952219165	/home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug/16_QCheckBox_autogen/mocs_compilation.cpp	161e69468b372e01
+2395	19547	1734206875973218960	CMakeFiles/16_QCheckBox.dir/16_QCheckBox_autogen/mocs_compilation.cpp.o	c5083d03d4366cb8
+2399	19905	1734206875977218921	CMakeFiles/16_QCheckBox.dir/mainwindow.cpp.o	b0fc38aa846faa1c
+2398	20389	1734206875976218931	CMakeFiles/16_QCheckBox.dir/main.cpp.o	ce43d90b75b6e426
+20390	21931	1734206893968043504	16_QCheckBox	ce39d7440372bf9e
+10	49	1734206961140394234	16_QCheckBox_autogen/timestamp	161e69468b372e01
+10	49	1734206961140394234	16_QCheckBox_autogen/mocs_compilation.cpp	161e69468b372e01
+10	49	1734206961140394234	/home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug/16_QCheckBox_autogen/timestamp	161e69468b372e01
+10	49	1734206961140394234	/home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug/16_QCheckBox_autogen/mocs_compilation.cpp	161e69468b372e01
+49	10414	1734206961179393859	CMakeFiles/16_QCheckBox.dir/mainwindow.cpp.o	b0fc38aa846faa1c
+10414	11967	1734206971545294416	16_QCheckBox	ce39d7440372bf9e

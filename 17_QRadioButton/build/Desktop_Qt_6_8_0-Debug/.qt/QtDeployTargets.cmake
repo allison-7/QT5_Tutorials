@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_17_QRadioButton_FILE /home/allison/Qt5_Tutorials/17_QRadioButton/build/Desktop_Qt_6_8_0-Debug/17_QRadioButton)
+set(__QT_DEPLOY_TARGET_17_QRadioButton_TYPE EXECUTABLE)

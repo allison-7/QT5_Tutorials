@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-448c0e26a065dc738158.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "16_QCheckBox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "16_QCheckBox::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16_QCheckBox-Debug-0bd21dab64559c654f07.json",
+					"name" : "16_QCheckBox",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "16_QCheckBox_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16_QCheckBox_autogen-Debug-960a68612f0e66cf6947.json",
+					"name" : "16_QCheckBox_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "16_QCheckBox_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-16_QCheckBox_autogen_timestamp_deps-Debug-b52aa37f960349b088f7.json",
+					"name" : "16_QCheckBox_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Qt5_Tutorials/16_QCheckBox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

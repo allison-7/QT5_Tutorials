@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e325bf2585a0c8bc7785.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "17_QRadioButton",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "17_QRadioButton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-17_QRadioButton-Debug-4b5b7a50de951e79cbb9.json",
+					"name" : "17_QRadioButton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "17_QRadioButton_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-17_QRadioButton_autogen-Debug-24749b4c35b325ae6c07.json",
+					"name" : "17_QRadioButton_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "17_QRadioButton_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-17_QRadioButton_autogen_timestamp_deps-Debug-35253e458de5dc3da264.json",
+					"name" : "17_QRadioButton_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Qt5_Tutorials/17_QRadioButton/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Qt5_Tutorials/17_QRadioButton"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

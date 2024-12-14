@@ -1,0 +1,15 @@
+# ninja log v6
+5	1413	1734207652968038507	17_QRadioButton_autogen/timestamp	b5b3901c35d8b67a
+5	1413	1734207652968038507	17_QRadioButton_autogen/mocs_compilation.cpp	b5b3901c35d8b67a
+5	1413	1734207652968038507	/home/allison/Qt5_Tutorials/17_QRadioButton/build/Desktop_Qt_6_8_0-Debug/17_QRadioButton_autogen/timestamp	b5b3901c35d8b67a
+5	1413	1734207652968038507	/home/allison/Qt5_Tutorials/17_QRadioButton/build/Desktop_Qt_6_8_0-Debug/17_QRadioButton_autogen/mocs_compilation.cpp	b5b3901c35d8b67a
+1417	11710	1734207652989038320	CMakeFiles/17_QRadioButton.dir/17_QRadioButton_autogen/mocs_compilation.cpp.o	ee76baa213aa6c01
+1417	11833	1734207652990038311	CMakeFiles/17_QRadioButton.dir/main.cpp.o	32968bdb38bd7de
+1420	12727	1734207652992038293	CMakeFiles/17_QRadioButton.dir/mainwindow.cpp.o	4224fed17f8e4963
+12727	14245	1734207664299937452	17_QRadioButton	335ed9f9c3cb4e59
+17	65	1734207874398073194	17_QRadioButton_autogen/timestamp	b5b3901c35d8b67a
+17	65	1734207874398073194	17_QRadioButton_autogen/mocs_compilation.cpp	b5b3901c35d8b67a
+17	65	1734207874398073194	/home/allison/Qt5_Tutorials/17_QRadioButton/build/Desktop_Qt_6_8_0-Debug/17_QRadioButton_autogen/timestamp	b5b3901c35d8b67a
+17	65	1734207874398073194	/home/allison/Qt5_Tutorials/17_QRadioButton/build/Desktop_Qt_6_8_0-Debug/17_QRadioButton_autogen/mocs_compilation.cpp	b5b3901c35d8b67a
+66	7161	1734207874447072761	CMakeFiles/17_QRadioButton.dir/mainwindow.cpp.o	4224fed17f8e4963
+7161	8398	1734207881542010072	17_QRadioButton	335ed9f9c3cb4e59

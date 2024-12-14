@@ -1,0 +1,12 @@
+# ninja log v6
+4	4731	1734206116694708331	15_HtmlDemo_autogen/timestamp	d8b96d64519a06a5
+4	4731	1734206116694708331	15_HtmlDemo_autogen/mocs_compilation.cpp	d8b96d64519a06a5
+4	4731	1734206116694708331	/home/allison/Qt5_Tutorials/15_HtmlDemo/build/Desktop_Qt_6_8_0-Debug/15_HtmlDemo_autogen/timestamp	d8b96d64519a06a5
+4	4731	1734206116694708331	/home/allison/Qt5_Tutorials/15_HtmlDemo/build/Desktop_Qt_6_8_0-Debug/15_HtmlDemo_autogen/mocs_compilation.cpp	d8b96d64519a06a5
+4736	4764	1734206116744707657	15_HtmlDemo_autogen/EWIEGA46WW/qrc_resource.cpp	a20d203ef1827cf4
+4736	4764	1734206116744707657	/home/allison/Qt5_Tutorials/15_HtmlDemo/build/Desktop_Qt_6_8_0-Debug/15_HtmlDemo_autogen/EWIEGA46WW/qrc_resource.cpp	a20d203ef1827cf4
+4767	5053	1734206116751707562	CMakeFiles/15_HtmlDemo.dir/15_HtmlDemo_autogen/EWIEGA46WW/qrc_resource.cpp.o	c961ff85394557e2
+4764	14113	1734206116749707589	CMakeFiles/15_HtmlDemo.dir/15_HtmlDemo_autogen/mocs_compilation.cpp.o	27d1a1e3f287ea0c
+4765	14119	1734206116749707589	CMakeFiles/15_HtmlDemo.dir/main.cpp.o	c2709706ab7b12cf
+4766	15211	1734206116750707576	CMakeFiles/15_HtmlDemo.dir/mainwindow.cpp.o	f9547da52268dde9
+15212	17798	1734206127196567301	15_HtmlDemo	3c00ed4ce49b8af7

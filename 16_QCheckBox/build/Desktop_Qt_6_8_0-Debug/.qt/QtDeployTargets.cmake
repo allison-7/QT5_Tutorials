@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_16_QCheckBox_FILE /home/allison/Qt5_Tutorials/16_QCheckBox/build/Desktop_Qt_6_8_0-Debug/16_QCheckBox)
+set(__QT_DEPLOY_TARGET_16_QCheckBox_TYPE EXECUTABLE)
