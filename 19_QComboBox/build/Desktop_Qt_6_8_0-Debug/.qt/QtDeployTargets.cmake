@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_19_QComboBox_FILE /home/allison/Qt5_Tutorials/19_QComboBox/build/Desktop_Qt_6_8_0-Debug/19_QComboBox)
+set(__QT_DEPLOY_TARGET_19_QComboBox_TYPE EXECUTABLE)

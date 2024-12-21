@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "/home/allison/Qt5_Tutorials/19_QComboBox/build/Desktop_Qt_6_8_0-Debug/19_QComboBox_autogen",
+	"CMAKE_BINARY_DIR" : "/home/allison/Qt5_Tutorials/19_QComboBox/build/Desktop_Qt_6_8_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/allison/Qt5_Tutorials/19_QComboBox/build/Desktop_Qt_6_8_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/allison/Qt5_Tutorials/19_QComboBox",
+	"CMAKE_SOURCE_DIR" : "/home/allison/Qt5_Tutorials/19_QComboBox",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/allison/Qt5_Tutorials/19_QComboBox/build/Desktop_Qt_6_8_0-Debug/19_QComboBox_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/allison/Qt5_Tutorials/19_QComboBox/img/new.png",
+		"/home/allison/Qt5_Tutorials/19_QComboBox/img/open-file.jpeg",
+		"/home/allison/Qt5_Tutorials/19_QComboBox/img/close.jpeg"
+	],
+	"LOCK_FILE" : "/home/allison/Qt5_Tutorials/19_QComboBox/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/19_QComboBox_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/allison/Qt/6.8.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/allison/Qt5_Tutorials/19_QComboBox/build/Desktop_Qt_6_8_0-Debug/CMakeFiles/19_QComboBox_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/allison/Qt5_Tutorials/19_QComboBox/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

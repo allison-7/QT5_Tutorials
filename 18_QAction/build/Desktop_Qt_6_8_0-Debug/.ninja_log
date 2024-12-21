@@ -1,0 +1,12 @@
+# ninja log v6
+12	2409	1734807792931005037	18_QAction_autogen/timestamp	bcd318a903c120be
+12	2409	1734807792931005037	18_QAction_autogen/mocs_compilation.cpp	bcd318a903c120be
+12	2409	1734807792931005037	/home/allison/Qt5_Tutorials/18_QAction/build/Desktop_Qt_6_8_0-Debug/18_QAction_autogen/timestamp	bcd318a903c120be
+12	2409	1734807792931005037	/home/allison/Qt5_Tutorials/18_QAction/build/Desktop_Qt_6_8_0-Debug/18_QAction_autogen/mocs_compilation.cpp	bcd318a903c120be
+2413	2465	1734807793002004112	18_QAction_autogen/EWIEGA46WW/qrc_Resources.cpp	59593986780de4ca
+2413	2465	1734807793002004112	/home/allison/Qt5_Tutorials/18_QAction/build/Desktop_Qt_6_8_0-Debug/18_QAction_autogen/EWIEGA46WW/qrc_Resources.cpp	59593986780de4ca
+2477	2933	1734807793018003903	CMakeFiles/18_QAction.dir/18_QAction_autogen/EWIEGA46WW/qrc_Resources.cpp.o	d5b1c82e3af48c7b
+2467	20223	1734807793008004033	CMakeFiles/18_QAction.dir/main.cpp.o	1f8c05474f065270
+2466	22065	1734807793007004047	CMakeFiles/18_QAction.dir/18_QAction_autogen/mocs_compilation.cpp.o	a9cb5cdc293a35d5
+2472	22111	1734807793013003968	CMakeFiles/18_QAction.dir/mainwindow.cpp.o	8b2d9bc3fc4a4108
+22112	24716	1734807812652751635	18_QAction	c10cdb02f959ccf3

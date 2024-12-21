@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_20_QListWidget_FILE /home/allison/Qt5_Tutorials/20_QListWidget/build/Desktop_Qt_6_8_0-Debug/20_QListWidget)
+set(__QT_DEPLOY_TARGET_20_QListWidget_TYPE EXECUTABLE)

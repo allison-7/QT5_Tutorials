@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_18_QAction_FILE /home/allison/Qt5_Tutorials/18_QAction/build/Desktop_Qt_6_8_0-Debug/18_QAction)
+set(__QT_DEPLOY_TARGET_18_QAction_TYPE EXECUTABLE)
