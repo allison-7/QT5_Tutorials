@@ -1,0 +1,17 @@
+# ninja log v6
+9	2215	1734965262763854216	22_QFile_autogen/timestamp	1781cf79dd1b3f1e
+9	2215	1734965262763854216	22_QFile_autogen/mocs_compilation.cpp	1781cf79dd1b3f1e
+9	2215	1734965262763854216	/home/allison/Qt5_Tutorials/22_QFile/build/Desktop_Qt_6_8_0-Debug/22_QFile_autogen/timestamp	1781cf79dd1b3f1e
+9	2215	1734965262763854216	/home/allison/Qt5_Tutorials/22_QFile/build/Desktop_Qt_6_8_0-Debug/22_QFile_autogen/mocs_compilation.cpp	1781cf79dd1b3f1e
+2219	16176	1734965262788853620	CMakeFiles/22_QFile.dir/main.cpp.o	8c42a867080e79bf
+2218	16284	1734965262787853644	CMakeFiles/22_QFile.dir/22_QFile_autogen/mocs_compilation.cpp.o	b7f9b2901124c279
+11	56	1734965343865004247	22_QFile_autogen/timestamp	1781cf79dd1b3f1e
+11	56	1734965343865004247	22_QFile_autogen/mocs_compilation.cpp	1781cf79dd1b3f1e
+11	56	1734965343865004247	/home/allison/Qt5_Tutorials/22_QFile/build/Desktop_Qt_6_8_0-Debug/22_QFile_autogen/timestamp	1781cf79dd1b3f1e
+11	56	1734965343865004247	/home/allison/Qt5_Tutorials/22_QFile/build/Desktop_Qt_6_8_0-Debug/22_QFile_autogen/mocs_compilation.cpp	1781cf79dd1b3f1e
+12	61	1734965409055628918	22_QFile_autogen/timestamp	1781cf79dd1b3f1e
+12	61	1734965409055628918	22_QFile_autogen/mocs_compilation.cpp	1781cf79dd1b3f1e
+12	61	1734965409055628918	/home/allison/Qt5_Tutorials/22_QFile/build/Desktop_Qt_6_8_0-Debug/22_QFile_autogen/timestamp	1781cf79dd1b3f1e
+12	61	1734965409055628918	/home/allison/Qt5_Tutorials/22_QFile/build/Desktop_Qt_6_8_0-Debug/22_QFile_autogen/mocs_compilation.cpp	1781cf79dd1b3f1e
+63	10425	1734965409106627878	CMakeFiles/22_QFile.dir/mainwindow.cpp.o	2e63e8e0eb4b504d
+10426	12139	1734965419469417537	22_QFile	774563a767772ca0

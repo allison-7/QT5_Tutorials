@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_23_QFileDialog_FILE /home/allison/Qt5_Tutorials/23_QFileDialog/build/Desktop_Qt_6_8_0-Debug/23_QFileDialog)
+set(__QT_DEPLOY_TARGET_23_QFileDialog_TYPE EXECUTABLE)

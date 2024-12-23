@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_24_QTimer_FILE /home/allison/Qt5_Tutorials/24_QTimer/build/Desktop_Qt_6_8_0-Debug/24_QTimer)
+set(__QT_DEPLOY_TARGET_24_QTimer_TYPE EXECUTABLE)

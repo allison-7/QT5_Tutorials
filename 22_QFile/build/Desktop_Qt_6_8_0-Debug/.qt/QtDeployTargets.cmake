@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_22_QFile_FILE /home/allison/Qt5_Tutorials/22_QFile/build/Desktop_Qt_6_8_0-Debug/22_QFile)
+set(__QT_DEPLOY_TARGET_22_QFile_TYPE EXECUTABLE)

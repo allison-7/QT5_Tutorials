@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d1922400dcbb3ae6b411.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "23_QFileDialog",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "23_QFileDialog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-23_QFileDialog-Debug-d36f902a9482f110956e.json",
+					"name" : "23_QFileDialog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "23_QFileDialog_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-23_QFileDialog_autogen-Debug-95ba190ab7fe792d142a.json",
+					"name" : "23_QFileDialog_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "23_QFileDialog_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-23_QFileDialog_autogen_timestamp_deps-Debug-0832bc74631a619ea95b.json",
+					"name" : "23_QFileDialog_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Qt5_Tutorials/23_QFileDialog/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Qt5_Tutorials/23_QFileDialog"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

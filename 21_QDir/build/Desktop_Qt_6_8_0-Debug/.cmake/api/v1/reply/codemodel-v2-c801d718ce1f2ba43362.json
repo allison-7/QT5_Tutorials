@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-36b58e73905876a30090.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "21_QDir",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "21_QDir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21_QDir-Debug-e9453a5575b103861683.json",
+					"name" : "21_QDir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "21_QDir_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21_QDir_autogen-Debug-6570168540cf78e5357b.json",
+					"name" : "21_QDir_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "21_QDir_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21_QDir_autogen_timestamp_deps-Debug-62c319217a694d93f641.json",
+					"name" : "21_QDir_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/allison/Qt5_Tutorials/21_QDir/build/Desktop_Qt_6_8_0-Debug",
+		"source" : "/home/allison/Qt5_Tutorials/21_QDir"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
