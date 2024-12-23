@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_26_QNotepad_FILE /home/allison/Qt5_Tutorials/26_QNotepad/build/Desktop_Qt_6_8_0-Debug/26_QNotepad)
+set(__QT_DEPLOY_TARGET_26_QNotepad_TYPE EXECUTABLE)
