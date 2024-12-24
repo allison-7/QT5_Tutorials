@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_28_QTabWidget_FILE /home/allison/Qt5_Tutorials/28_QTabWidget/build/Desktop_Qt_6_8_0-Debug/28_QTabWidget)
+set(__QT_DEPLOY_TARGET_28_QTabWidget_TYPE EXECUTABLE)

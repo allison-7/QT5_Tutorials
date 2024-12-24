@@ -1,0 +1,24 @@
+# ninja log v6
+12	68	1735049870407066519	28_QTabWidget_autogen/timestamp	37fe1c5bd51bf481
+12	68	1735049870407066519	28_QTabWidget_autogen/mocs_compilation.cpp	37fe1c5bd51bf481
+12	68	1735049870407066519	/home/allison/Qt5_Tutorials/28_QTabWidget/build/Desktop_Qt_6_8_0-Debug/28_QTabWidget_autogen/timestamp	37fe1c5bd51bf481
+12	68	1735049870407066519	/home/allison/Qt5_Tutorials/28_QTabWidget/build/Desktop_Qt_6_8_0-Debug/28_QTabWidget_autogen/mocs_compilation.cpp	37fe1c5bd51bf481
+2520	13172	1735049776985914207	CMakeFiles/28_QTabWidget.dir/28_QTabWidget_autogen/mocs_compilation.cpp.o	9fb22a05bdf23a95
+8048	9561	1735049878443003571	28_QTabWidget	eba247377be9eb42
+68	8048	1735049870464066068	CMakeFiles/28_QTabWidget.dir/mainwindow.cpp.o	5e4eba013e6292dd
+2521	14171	1735049776986914196	CMakeFiles/28_QTabWidget.dir/main.cpp.o	ae9c6ef7cc1ada1a
+24	1844	1735050142744158056	28_QTabWidget_autogen/timestamp	37fe1c5bd51bf481
+24	1844	1735050142744158056	28_QTabWidget_autogen/mocs_compilation.cpp	37fe1c5bd51bf481
+24	1844	1735050142744158056	/home/allison/Qt5_Tutorials/28_QTabWidget/build/Desktop_Qt_6_8_0-Debug/28_QTabWidget_autogen/timestamp	37fe1c5bd51bf481
+24	1844	1735050142744158056	/home/allison/Qt5_Tutorials/28_QTabWidget/build/Desktop_Qt_6_8_0-Debug/28_QTabWidget_autogen/mocs_compilation.cpp	37fe1c5bd51bf481
+1845	13150	1735050142767157718	CMakeFiles/28_QTabWidget.dir/28_QTabWidget_autogen/mocs_compilation.cpp.o	9fb22a05bdf23a95
+1847	13866	1735050142769157689	CMakeFiles/28_QTabWidget.dir/mainwindow.cpp.o	5e4eba013e6292dd
+1850	14979	1735050142772157645	CMakeFiles/28_QTabWidget.dir/form.cpp.o	f42cf3da1eca362
+14979	16342	1735050155900967706	28_QTabWidget	63e1d6bd71c0eef5
+14	68	1735050230730972686	28_QTabWidget_autogen/timestamp	37fe1c5bd51bf481
+14	68	1735050230730972686	28_QTabWidget_autogen/mocs_compilation.cpp	37fe1c5bd51bf481
+14	68	1735050230730972686	/home/allison/Qt5_Tutorials/28_QTabWidget/build/Desktop_Qt_6_8_0-Debug/28_QTabWidget_autogen/timestamp	37fe1c5bd51bf481
+14	68	1735050230730972686	/home/allison/Qt5_Tutorials/28_QTabWidget/build/Desktop_Qt_6_8_0-Debug/28_QTabWidget_autogen/mocs_compilation.cpp	37fe1c5bd51bf481
+69	11653	1735050230785972004	CMakeFiles/28_QTabWidget.dir/mainwindow.cpp.o	5e4eba013e6292dd
+72	11920	1735050230788971966	CMakeFiles/28_QTabWidget.dir/form.cpp.o	f42cf3da1eca362
+11920	13443	1735050242636826435	28_QTabWidget	63e1d6bd71c0eef5

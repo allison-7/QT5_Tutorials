@@ -37,6 +37,7 @@
     <addaction name="actionOpen"/>
     <addaction name="actionSave"/>
     <addaction name="actionSave_As"/>
+    <addaction name="actionPrint"/>
    </widget>
    <widget class="QMenu" name="menuEdit">
     <property name="title">
@@ -47,6 +48,10 @@
     <addaction name="actionPaste"/>
     <addaction name="actionRedo"/>
     <addaction name="actionUndo"/>
+    <addaction name="actionFont"/>
+    <addaction name="actionColour"/>
+    <addaction name="actionBackground_Colour"/>
+    <addaction name="actionBackground_Window_Colour"/>
    </widget>
    <widget class="QMenu" name="menuAbout">
     <property name="title">
@@ -147,6 +152,31 @@
    </property>
    <property name="text">
     <string>About Us</string>
+   </property>
+  </action>
+  <action name="actionFont">
+   <property name="text">
+    <string>Font</string>
+   </property>
+  </action>
+  <action name="actionColour">
+   <property name="text">
+    <string>Colour</string>
+   </property>
+  </action>
+  <action name="actionBackground_Colour">
+   <property name="text">
+    <string>Background Colour</string>
+   </property>
+  </action>
+  <action name="actionBackground_Window_Colour">
+   <property name="text">
+    <string>Background Window Colour</string>
+   </property>
+  </action>
+  <action name="actionPrint">
+   <property name="text">
+    <string>Print</string>
    </property>
   </action>
  </widget>

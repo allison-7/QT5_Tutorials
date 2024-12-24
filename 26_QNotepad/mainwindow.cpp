@@ -4,6 +4,12 @@
 #include <QFileDialog>
 #include <QTextStream>
 #include <QMessageBox>
+#include <QFontDialog>
+#include <QFont>
+#include <QColorDialog>
+#include <QColor>
+#include <QtPrintSupport/QPrinter>
+#include <QtPrintSupport/QPrintDialog>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -107,5 +113,54 @@ void MainWindow::on_actionAbout_triggered()
 {
     QString about_text = "Author : Somebody\nDate : 12/23/25\n(C) Notepad (R)";
     QMessageBox::about(this,"About" ,about_text);
+}
+
+
+void MainWindow::on_actionFont_triggered()
+{
+    bool ok;
+    QFont font = QFontDialog::getFont(&ok, this);
+    if (ok) {
+        ui->textEdit->setFont(font);
+    } else {
+        return;
+    }
+}
+
+
+void MainWindow::on_actionColour_triggered()
+{
+    QColor colour = QColorDialog::getColor(Qt::white, this, "Choose a Colour");
+    if (colour.isValid()) {
+        ui->textEdit->setTextColor(colour);
+    }
+}
+
+
+void MainWindow::on_actionBackground_Colour_triggered()
+{
+    QColor colour = QColorDialog::getColor(Qt::white, this, "Choose a Colour");
+    if (colour.isValid()) {
+        ui->textEdit->setTextBackgroundColor(colour);
+    }
+}
+
+
+void MainWindow::on_actionBackground_Window_Colour_triggered()
+{
+    QColor colour = QColorDialog::getColor(Qt::white, this, "Choose a Colour");
+    if (colour.isValid()) {
+        ui->textEdit->setPalette(QPalette(colour));
+    }
+}
+
+
+void MainWindow::on_actionPrint_triggered()
+{
+    /*QPrinter printer;
+    //printer.setPrinterName("Default Name");
+    QPrintDialog dialog(&printer, this);
+    if(dialog.exec() == QDialog::Rejected) return;
+    ui->textEdit->print(&printer);*/
 }
 
